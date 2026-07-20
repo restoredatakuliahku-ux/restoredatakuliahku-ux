@@ -157,9 +157,46 @@
 
 <div align="center">
 
+```
+╔══════════════════════════════════════════════════════════╗
+║  📡 LIVE METRICS — AUTO UPDATED EVERY 24H              ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=restoredatakuliahku-ux&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117&border_color=FFD700)
 
+<!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=restoredatakuliahku-ux&layout=compact&theme=radical&title_color=FFD700&text_color=ffffff&bg_color=0d1117&border_color=FFD700)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=restoredatakuliahku-ux&theme=radical&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&background=0d1117&border=FFD700)
+
+</div>
+
+---
+
+## 🗂️ METRICS DASHBOARD
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  ᗧ··· LOADING PLAYER DATA ···█████████░░░  87%         ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<!-- Isometric Commit Calendar -->
+<img src="https://github.com/restoredatakuliahku-ux/restoredatakuliahku-ux/blob/main/metrics.isocalendar.svg" alt="Isometric Calendar" width="49%">
+
+<!-- Languages Activity -->
+<img src="https://github.com/restoredatakuliahku-ux/restoredatakuliahku-ux/blob/main/metrics.languages.svg" alt="Languages" width="49%">
+
+<!-- Achievements -->
+<img src="https://github.com/restoredatakuliahku-ux/restoredatakuliahku-ux/blob/main/metrics.achievements.svg" alt="Achievements" width="49%">
+
+<!-- Coding Habits -->
+<img src="https://github.com/restoredatakuliahku-ux/restoredatakuliahku-ux/blob/main/metrics.habits.svg" alt="Habits" width="49%">
 
 </div>
 
