@@ -111,18 +111,7 @@ contact: chrandika3@gmail.com
   <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/restoredatakuliahku-ux/restoredatakuliahku-ux/output/pacman-contribution-graph.svg" width="90%">
 </picture>
 
-<sub>auto-generated daily from commit history</sub>
 
-</div>
-
-<img src="https://raw.githubusercontent.com/restoredatakuliahku-ux/restoredatakuliahku-ux/main/metrics.isocalendar.svg" width="49%">
-<img src="https://raw.githubusercontent.com/restoredatakuliahku-ux/restoredatakuliahku-ux/main/metrics.languages.svg" width="49%">
-<img src="https://raw.githubusercontent.com/restoredatakuliahku-ux/restoredatakuliahku-ux/main/metrics.achievements.svg" width="49%">
-<img src="https://raw.githubusercontent.com/restoredatakuliahku-ux/restoredatakuliahku-ux/main/metrics.habits.svg" width="49%">
-
-<br><br>
-
-<div align="center">
 
 
 </div>
