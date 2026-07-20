@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ```
@@ -10,19 +9,33 @@
 ╚═╝     ╚═╝  ╚═╝ ╚═════╝   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-</div>
-
-<div align="center">
-
 <!-- Pac-Man Banner -->
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  ᗧ···  PLAYER 1 — ANDIKA ARBILLAH  ···ᗣ ᗣ ᗣ           ║
-║  SCORE: 387000   LEVEL: 06   LIVES: ♥ ♥ ♥              ║
+║  ᗧ···  PLAYER 1 — ANDIKA ARBILLAH  ···ᗣ ᗣ ᗣ            ║
+║  SCORE: 387000   LEVEL: 06   LIVES: ♥ ♥ ♥               ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%95%B9%EF%B8%8F;Network+%26+IT+Infrastructure+Engineer+%F0%9F%8C%90;Informatika+%40+ITICM+Sidoarjo+%F0%9F%8E%93;IPK+3.87+%2F+4.00+%E2%9C%A8;Open+to+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=restoredatakuliahku-ux.restoredatakuliahku-ux&color=FFD700)
+
+</div>
+
+---
+
+## ᗧ···· PAC-MAN CONTRIBUTION GRAPH
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/restoredatakuliahku-ux/restoredatakuliahku-ux/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/restoredatakuliahku-ux/restoredatakuliahku-ux/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/restoredatakuliahku-ux/restoredatakuliahku-ux/output/pacman-contribution-graph.svg">
+</picture>
+
+<sub>Auto-generated every 24h — Pac-Man literally eats my commit graph 🟡</sub>
 
 </div>
 
@@ -31,11 +44,11 @@
 ## 🕹️ BLOCK BLAST — About Me
 
 ```
-┌─────┬─────┬─────┬─────┬─────┬─────┐
-│  👤 │  🎓 │  📍 │  💼 │  📊 │  🎯 │
-│ Andika│ S1  │Sidoarjo│ Open │ 3.87│ Full │
-│Arbillah│Info│Jatim│ Work │ IPK │Stack│
-└─────┴─────┴─────┴─────┴─────┴─────┘
+┌────────┬──────┬─────────┬──────┬─────┬──────┐
+│   👤   │  🎓  │   📍    │  💼  │ 📊  │  🎯  │
+│ Andika │ S1   │Sidoarjo │ Open │3.87 │ Full │
+│Arbillah│Info  │ Jatim   │ Work │ IPK │Stack │
+└────────┴──────┴─────────┴──────┴─────┴──────┘
 ```
 
 - 🎓 **S1 Informatika** — Institut Teknologi Insan Cendekia Mandiri (2022–2026)
@@ -50,17 +63,17 @@
 
 ```
 ╔═══════════════════════════════════════════════════════╗
-║  ᗧ··· COLLECTING SKILLS ···                          ║
-║                                                       ║
-║  ● PostgreSQL  ● MySQL      ● HTML     ● CSS         ║
-║  ● JavaScript  ● Bootstrap  ● Tailwind ● PHP         ║
-║  ● Laravel     ● React      ● Next.js  ● Express.js  ║
-║  ● Golang                                             ║
-║                                                       ║
-║  🌐 NETWORK POWER-UPS:                               ║
-║  ★ Topology Enterprise   ★ Instalasi Jaringan        ║
-║  ★ Instalasi CCTV        ★ Instalasi Server          ║
-║  ★ Troubleshooting IT                                 ║
+║  ᗧ··· COLLECTING SKILLS ···                           ║
+║                                                        ║
+║  ● PostgreSQL  ● MySQL      ● HTML     ● CSS          ║
+║  ● JavaScript  ● Bootstrap  ● Tailwind ● PHP          ║
+║  ● Laravel     ● React      ● Next.js  ● Express.js   ║
+║  ● Golang                                              ║
+║                                                        ║
+║  🌐 NETWORK POWER-UPS:                                ║
+║  ★ Topology Enterprise   ★ Instalasi Jaringan         ║
+║  ★ Instalasi CCTV        ★ Instalasi Server           ║
+║  ★ Troubleshooting IT                                  ║
 ╚═══════════════════════════════════════════════════════╝
 ```
 
@@ -94,19 +107,19 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  🏅 CERTIFICATES & LICENSES                             ║
+║  🏅 CERTIFICATES & LICENSES                              ║
 ╠══════════════════════════════════════════════════════════╣
-║  📹 [UNLOCKED] HTC Smart Building Industries            ║
-║                Hikvision Certification Program          ║
-║                                                         ║
-║  🎓 [UNLOCKED] HTC Education                           ║
-║                Hikvision Certification Program          ║
-║                                                         ║
-║  🐹 [UNLOCKED] Golang Programmer                       ║
-║                Enigma Camp — IT Boot Camp               ║
-║                                                         ║
-║  🌐 [UNLOCKED] Reyee Specialist Engineer (SME)         ║
-║                Ruijie Networks Certification            ║
+║  📹 [UNLOCKED] HTC Smart Building Industries              ║
+║                Hikvision Certification Program            ║
+║                                                            ║
+║  🎓 [UNLOCKED] HTC Education                              ║
+║                Hikvision Certification Program            ║
+║                                                            ║
+║  🐹 [UNLOCKED] Golang Programmer                          ║
+║                Enigma Camp — IT Boot Camp                 ║
+║                                                            ║
+║  🌐 [UNLOCKED] Reyee Specialist Engineer (SME)            ║
+║                Ruijie Networks Certification               ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -116,11 +129,11 @@
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│  STAGE 1 ★★★  │  Volunteer — Yayasan Yatim Mandiri      │
-│  2023          │  Koordinasi kegiatan sosial & dokumentasi│
+│  STAGE 1 ★★★  │  Volunteer — Yayasan Yatim Mandiri        │
+│  2023          │  Koordinasi kegiatan sosial & dokumentasi │
 ├──────────────────────────────────────────────────────────┤
-│  STAGE 2 ★★★  │  Teknisi Lapangan — PT Bitmatic Inovasi  │
-│  2024          │  Instalasi Jaringan, CCTV, Server & IT   │
+│  STAGE 2 ★★★  │  Teknisi Lapangan — PT Bitmatic Inovasi    │
+│  2024          │  Instalasi Jaringan, CCTV, Server & IT    │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -130,24 +143,24 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  🗺️  LEVEL SELECT                                       ║
+║  🗺️  LEVEL SELECT                                        ║
 ╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  [1] Sistem Informasi Gereja GPIA                       ║
-║      Laravel · Filament · Tailwind CSS                  ║
-║      🔗 https://gpia.net                                ║
-║                                                          ║
-║  [2] CMS CV Waseso Kencana                              ║
-║      Laravel · Filament · Tailwind CSS                  ║
-║      🔗 https://wasesokencana.id                        ║
-║                                                          ║
-║  [3] SAKURA — Sistem Manajemen RT  [IN DEVELOPMENT]     ║
-║      React · Tailwind CSS · Express.js                  ║
-║      🔗 github.com/restoredatakuliahku-ux               ║
-║                                                          ║
-║  [4] CMS Hotel Axia South Cikarang                      ║
-║      Next.js · Tailwind CSS · shadcn/ui                 ║
-║                                                          ║
+║                                                            ║
+║  [1] Sistem Informasi Gereja GPIA                         ║
+║      Laravel · Filament · Tailwind CSS                    ║
+║      🔗 https://gpia.net                                  ║
+║                                                            ║
+║  [2] CMS CV Waseso Kencana                                 ║
+║      Laravel · Filament · Tailwind CSS                    ║
+║      🔗 https://wasesokencana.id                          ║
+║                                                            ║
+║  [3] SAKURA — Sistem Manajemen RT  [IN DEVELOPMENT]        ║
+║      React · Tailwind CSS · Express.js                    ║
+║      🔗 github.com/restoredatakuliahku-ux                 ║
+║                                                            ║
+║  [4] CMS Hotel Axia South Cikarang                         ║
+║      Next.js · Tailwind CSS · shadcn/ui                   ║
+║                                                            ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -159,17 +172,14 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  📡 LIVE METRICS — AUTO UPDATED EVERY 24H              ║
+║  📡 LIVE METRICS — AUTO UPDATED EVERY 24H                 ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=restoredatakuliahku-ux&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117&border_color=FFD700)
 
-<!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=restoredatakuliahku-ux&layout=compact&theme=radical&title_color=FFD700&text_color=ffffff&bg_color=0d1117&border_color=FFD700)
 
-<!-- Streak Stats -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=restoredatakuliahku-ux&theme=radical&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&background=0d1117&border=FFD700)
 
 </div>
@@ -182,21 +192,14 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  ᗧ··· LOADING PLAYER DATA ···█████████░░░  87%         ║
+║  ᗧ··· LOADING PLAYER DATA ···█████████░░░  87%           ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<!-- Isometric Commit Calendar -->
-<img src="https://github.com/restoredatakuliahku-ux/restoredatakuliahku-ux/blob/main/metrics.isocalendar.svg" alt="Isometric Calendar" width="49%">
-
-<!-- Languages Activity -->
-<img src="https://github.com/restoredatakuliahku-ux/restoredatakuliahku-ux/blob/main/metrics.languages.svg" alt="Languages" width="49%">
-
-<!-- Achievements -->
-<img src="https://github.com/restoredatakuliahku-ux/restoredatakuliahku-ux/blob/main/metrics.achievements.svg" alt="Achievements" width="49%">
-
-<!-- Coding Habits -->
-<img src="https://github.com/restoredatakuliahku-ux/restoredatakuliahku-ux/blob/main/metrics.habits.svg" alt="Habits" width="49%">
+<img src="https://raw.githubusercontent.com/restoredatakuliahku-ux/restoredatakuliahku-ux/main/metrics.isocalendar.svg" alt="Isometric Calendar" width="49%">
+<img src="https://raw.githubusercontent.com/restoredatakuliahku-ux/restoredatakuliahku-ux/main/metrics.languages.svg" alt="Languages" width="49%">
+<img src="https://raw.githubusercontent.com/restoredatakuliahku-ux/restoredatakuliahku-ux/main/metrics.achievements.svg" alt="Achievements" width="49%">
+<img src="https://raw.githubusercontent.com/restoredatakuliahku-ux/restoredatakuliahku-ux/main/metrics.habits.svg" alt="Habits" width="49%">
 
 </div>
 
@@ -224,12 +227,10 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║         GAME OVER?  NO — PRESS START TO CONTINUE!       ║
-║                                                          ║
-║   © 2025 Andika Arbillah  •  Made with ♥ & ☕           ║
+║         GAME OVER?  NO — PRESS START TO CONTINUE!         ║
+║                                                            ║
+║   © 2026 Andika Arbillah  •  Made with ♥ & ☕              ║
 ╚══════════════════════════════════════════════════════════╝
 ```
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=restoredatakuliahku-ux.restoredatakuliahku-ux&color=FFD700)
 
 </div>
