@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00FFF0&background=0D0D0D00&center=true&vCenter=true&width=650&lines=ANDIKA+ARBILLAH;FULL-STACK+WEB+DEVELOPER;NETWORK+%26+IT+INFRASTRUCTURE;INFORMATIKA+%40+ITICM+SIDOARJO" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00FFF0&background=00000000&center=true&vCenter=true&width=650&lines=ANDIKA+ARBILLAH;FULL-STACK+WEB+DEVELOPER;NETWORK+%26+IT+INFRASTRUCTURE;INFORMATIKA+%40+ITICM+SIDOARJO">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=7A00CC&background=00000000&center=true&vCenter=true&width=650&lines=ANDIKA+ARBILLAH;FULL-STACK+WEB+DEVELOPER;NETWORK+%26+IT+INFRASTRUCTURE;INFORMATIKA+%40+ITICM+SIDOARJO">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00FFF0&background=00000000&center=true&vCenter=true&width=650&lines=ANDIKA+ARBILLAH;FULL-STACK+WEB+DEVELOPER;NETWORK+%26+IT+INFRASTRUCTURE;INFORMATIKA+%40+ITICM+SIDOARJO">
+</picture>
 
 <p>
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-39FF14?style=for-the-badge&labelColor=0D0D0D" />
@@ -95,35 +99,26 @@ contact: chrandika3@gmail.com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=restoredatakuliahku-ux&show_icons=true&theme=neon&hide_border=true&bg_color=0D0D0D" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=restoredatakuliahku-ux&layout=compact&theme=neon&hide_border=true&bg_color=0D0D0D" width="34%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=restoredatakuliahku-ux&show_icons=true&theme=neon&hide_border=true&bg_color=0D0D0D">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=restoredatakuliahku-ux&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=7A00CC&icon_color=7A00CC">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=restoredatakuliahku-ux&show_icons=true&theme=neon&hide_border=true&bg_color=0D0D0D" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=restoredatakuliahku-ux&layout=compact&theme=neon&hide_border=true&bg_color=0D0D0D">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=restoredatakuliahku-ux&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=7A00CC">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=restoredatakuliahku-ux&layout=compact&theme=neon&hide_border=true&bg_color=0D0D0D" width="34%">
+</picture>
 
-<img src="https://streak-stats.demolab.com?user=restoredatakuliahku-ux&hide_border=true&background=0D0D0D&ring=00FFF0&fire=FF00E5&currStreakNum=00FFF0&sideNums=ffffff&currStreakLabel=39FF14&sideLabels=ffffff&dates=888888" width="66%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=restoredatakuliahku-ux&hide_border=true&background=0D0D0D&ring=00FFF0&fire=FF00E5&currStreakNum=00FFF0&sideNums=ffffff&currStreakLabel=39FF14&sideLabels=ffffff&dates=888888">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=restoredatakuliahku-ux&hide_border=true&background=ffffff&ring=7A00CC&fire=FF00A0&currStreakNum=7A00CC&sideNums=222222&currStreakLabel=7A00CC&sideLabels=222222&dates=666666">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=restoredatakuliahku-ux&hide_border=true&background=0D0D0D&ring=00FFF0&fire=FF00E5&currStreakNum=00FFF0&sideNums=ffffff&currStreakLabel=39FF14&sideLabels=ffffff&dates=888888" width="66%">
+</picture>
 
 </div>
 
 <br>
-
-## ⚡ CONTRIBUTION_ACTIVITY
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/restoredatakuliahku-ux/restoredatakuliahku-ux/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/restoredatakuliahku-ux/restoredatakuliahku-ux/output/pacman-contribution-graph.svg">
-  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/restoredatakuliahku-ux/restoredatakuliahku-ux/output/pacman-contribution-graph.svg" width="90%">
-</picture>
-
-<sub>auto-generated daily from commit history</sub>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/restoredatakuliahku-ux/restoredatakuliahku-ux/main/metrics.isocalendar.svg" width="49%">
-<img src="https://raw.githubusercontent.com/restoredatakuliahku-ux/restoredatakuliahku-ux/main/metrics.languages.svg" width="49%">
-<img src="https://raw.githubusercontent.com/restoredatakuliahku-ux/restoredatakuliahku-ux/main/metrics.achievements.svg" width="49%">
-<img src="https://raw.githubusercontent.com/restoredatakuliahku-ux/restoredatakuliahku-ux/main/metrics.habits.svg" width="49%">
-
-<br><br>
 
 <div align="center">
 
